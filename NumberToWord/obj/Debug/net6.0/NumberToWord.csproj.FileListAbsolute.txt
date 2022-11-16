@@ -1,0 +1,15 @@
+C:\Users\KALU'S PC\source\repos\NumberToWord\bin\Debug\net6.0\NumberToWord.exe
+C:\Users\KALU'S PC\source\repos\NumberToWord\bin\Debug\net6.0\NumberToWord.deps.json
+C:\Users\KALU'S PC\source\repos\NumberToWord\bin\Debug\net6.0\NumberToWord.runtimeconfig.json
+C:\Users\KALU'S PC\source\repos\NumberToWord\bin\Debug\net6.0\NumberToWord.dll
+C:\Users\KALU'S PC\source\repos\NumberToWord\bin\Debug\net6.0\NumberToWord.pdb
+C:\Users\KALU'S PC\source\repos\NumberToWord\obj\Debug\net6.0\NumberToWord.csproj.AssemblyReference.cache
+C:\Users\KALU'S PC\source\repos\NumberToWord\obj\Debug\net6.0\NumberToWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALU'S PC\source\repos\NumberToWord\obj\Debug\net6.0\NumberToWord.AssemblyInfoInputs.cache
+C:\Users\KALU'S PC\source\repos\NumberToWord\obj\Debug\net6.0\NumberToWord.AssemblyInfo.cs
+C:\Users\KALU'S PC\source\repos\NumberToWord\obj\Debug\net6.0\NumberToWord.csproj.CoreCompileInputs.cache
+C:\Users\KALU'S PC\source\repos\NumberToWord\obj\Debug\net6.0\NumberToWord.dll
+C:\Users\KALU'S PC\source\repos\NumberToWord\obj\Debug\net6.0\refint\NumberToWord.dll
+C:\Users\KALU'S PC\source\repos\NumberToWord\obj\Debug\net6.0\NumberToWord.pdb
+C:\Users\KALU'S PC\source\repos\NumberToWord\obj\Debug\net6.0\NumberToWord.genruntimeconfig.cache
+C:\Users\KALU'S PC\source\repos\NumberToWord\obj\Debug\net6.0\ref\NumberToWord.dll
